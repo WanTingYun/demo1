@@ -33,6 +33,7 @@ public class HelloServlet extends HttpServlet {
         System.out.println("master");
         System.out.println("后来的");
         System.out.println("pull");
+        System.out.println("pull2");
         
     }
 

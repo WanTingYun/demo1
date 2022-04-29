@@ -29,6 +29,7 @@ public class HelloServlet extends HttpServlet {
         super.doPost(req, resp);
 
         System.out.println(10);
+        System.out.println("master");
     }
 
     public void destroy() {

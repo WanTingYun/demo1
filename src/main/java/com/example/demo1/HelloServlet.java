@@ -29,7 +29,9 @@ public class HelloServlet extends HttpServlet {
         super.doPost(req, resp);
 
         System.out.println(10);
+        System.out.println("fid");
         System.out.println("master");
+        System.out.println("后来的");
     }
 
     public void destroy() {

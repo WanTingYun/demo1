@@ -32,6 +32,8 @@ public class HelloServlet extends HttpServlet {
         System.out.println("fid");
         System.out.println("master");
         System.out.println("后来的");
+        System.out.println("pull");
+        
     }
 
     public void destroy() {
